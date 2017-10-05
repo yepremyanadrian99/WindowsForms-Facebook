@@ -1,0 +1,51 @@
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.pdb
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe.config
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.exe
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.pdb
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.pdb
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Form1.resources
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Properties.Resources.resources
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Profile.resources
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Change.resources
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Search.resources
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Messenger.resources
+C:\Users\Adrian\Desktop\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\EXIFextractor.dll
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe.config
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.exe
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.pdb
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.pdb
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\EXIFextractor.dll
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csprojResolveAssemblyReference.cache
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Change.resources
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Form1.resources
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Messenger.resources
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Profile.resources
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Properties.Resources.resources
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Search.resources
+D:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\WindowsFormsFacebook.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\bin\Debug\EXIFextractor.dll
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Change.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Messenger.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Profile.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.Search.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\C#\WindowsForms\WindowsFormsFacebook\WindowsFormsFacebook\obj\Debug\WindowsFormsFacebook.pdb
